@@ -11,7 +11,7 @@ public class PlaySnakeAndLadder {
         allplayers.offer(player1);
         allplayers.offer(player2);
         Jumper snake1 = new Jumper(10,2);
-        Jumper snake2 = new Jumper(98,12);
+        Jumper snake2 = new Jumper(99,12);
         List<Jumper> snakes = new ArrayList<>();
         snakes.add(snake1);
         snakes.add(snake2);
