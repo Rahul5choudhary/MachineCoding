@@ -20,6 +20,7 @@ public class Amazon {
         iphoneStockObservable.add(observer3);
 
         iphoneStockObservable.setCount(10);
+        iphoneStockObservable.setCount(100);
     }
 
 }
